@@ -26,3 +26,9 @@ categories: Philosophie Arts et Litterature
 [Le gai savoir - Livre IV](https://www.youtube.com/watch?v=faqHZc7h_9o)
 
 [Le gai savoir - Livre V](https://www.youtube.com/watch?v=9Ei71zi4CwU)
+
+
+![Emmanuel Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg "Belle Coiffure")
+
+
+[Critique de la raison pure - Lecture suivie](https://www.youtube.com/watch?v=CZUl_bwTqcc&list=PLh9stSAhfbd-eX_v3vakMv2lJ5ugUBOaj)
