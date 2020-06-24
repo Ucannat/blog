@@ -6,6 +6,7 @@ categories: Nat da blogga
 ---
 
 ![oulala](https://la-philosophie.com/wp-content/uploads/2010/10/Nietzsche187a1.jpg "Belle Moustache cher Friedrich")
+**Oui, Définitivement, c'est une très belle moustache.**
 
 "L'espoir est le pire des maux, car il prolonge le tourment de l'homme."
 
