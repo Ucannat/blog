@@ -12,16 +12,16 @@ categories: Nat da blogga
 "L'Etat est le plus froid des monstres froids : il ment froidement ; et voici le mensonge qui rampe de sa bouche : "Moi l'Etat, je suis le peuple"."
 
 “L’homme a besoin de ce qu’il y a de pire en lui s’il veut parvenir à ce qu’il a de meilleur.”
-__*Ainsi Parlait Zarathoustra*__
+_*Ainsi Parlait Zarathoustra*_
 
 “La maturité de l’homme, c’est d’avoir retrouvé le sérieux qu’on avait au jeu quand on était enfant.”
-__*Par-delà le bien et le mal *__
+_*Par-delà le bien et le mal *_
 
 
 “Si ton oeil était plus aigu tu verrais tout en mouvement.”
 
 “La conscience est la dernière et la plus tardive évolution de la vie organique, et par conséquent ce qu'il y a de moins accompli et de plus fragile en elle. ”
-__*Le gai savoir*__
+_*Le gai savoir*_
 
 “La folie est quelque chose de rare chez l'individu ; elle est la règle pour les groupes, les partis, les peuples, les époques. ”
 
