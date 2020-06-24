@@ -5,7 +5,7 @@ date:   2020-06-26 13:56:36 +0000
 categories: Nat da blogga
 ---
 
-![oulala](https://la-philosophie.com/wp-content/uploads/2010/10/Nietzsche187a1.jpg)
+![oulala][Belle Moustache cher Friedrich](https://la-philosophie.com/wp-content/uploads/2010/10/Nietzsche187a1.jpg)
 
 "L'espoir est le pire des maux, car il prolonge le tourment de l'homme."
 
