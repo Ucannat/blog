@@ -15,7 +15,7 @@ categories: Nat da blogga
 
 “L’homme a besoin de ce qu’il y a de pire en lui s’il veut parvenir à ce qu’il a de meilleur.”
 
-######Ainsi Parlait Zarathoustra
+#Ainsi Parlait Zarathoustra
 
 “La maturité de l’homme, c’est d’avoir retrouvé le sérieux qu’on avait au jeu quand on était enfant.”
 
