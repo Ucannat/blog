@@ -5,7 +5,7 @@ date:   2020-06-26 13:56:36 +0000
 categories: Philosophie Arts et Litterature
 ---
 
-# Tupac
+### Tupac
 
 ![Tupac](https://www.leparisien.fr/resizer/MRRC1K35rOAxaH1BFM9vyqyGmjA=/932x582/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/ZRUB7IELF4RAUO4ZRV5TNJVRVQ.jpg)
 
@@ -21,6 +21,6 @@ C'est clair Tupac il pèse.
 > > * Parcequ'il a une pure energie
 > > * parcequ'il a de supers lyrics
 
-## On s'en écoute un Petit ?
+# On s'en écoute un Petit ?
 
 <iframe width="925" height="694" src="https://www.youtube.com/embed/GP_9HbagioU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
