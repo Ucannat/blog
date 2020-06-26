@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quelques Aphorismes de Nietzsche"
-date:   2020-06-26 13:56:36 +0000
+date:   2020-06-24 13:56:36 +0000
 categories: Philosophie Arts et Litterature
 ---
 
