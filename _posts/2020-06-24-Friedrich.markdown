@@ -80,6 +80,8 @@ Il leur arrive même de s'étaler dans des livres comme dans leur propre fumier.
  "Une fois qu'une décision est prise, il faut fermer les oreilles aux meilleurs arguments contraires. C'est l'indice d'un caractère fort. Par occasion ilm faut donc fraire triompher sa volonté jusqu'à la sottise"
  
  "Il n'y a pas de phénomènes moraux, il n'y a que des interpretations morales des phénomènes."
+ 
+ "[...]Mais les véritables philosophes ont pour mission de commande et d'imposer la loi. Il disent : Cela doit être ainsi. Ils determinent d'abord la direction et le pourquoi de l'Homme et disposent pour cela du tavail préparatoire de tous les ouvriers philosophiques, de tous les assujeteisseurs du passé. Ils saisissent l'avenir d'une main créatrice et tout ce qui est et qui a été, leur sert moyen, d'instrument, de marteau. Leur recherche de la connaissance est création, leur création est législation. Leur volonté de vérité est volonté de puissance."
 
 
 
